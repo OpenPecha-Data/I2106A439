@@ -1,16 +1,17 @@
-id: opecha:P006982
+id: P006982
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W4CZ294436
   title: ཀློང་སྙིང་བསྐྱེད་རྫོགས་རྫོགས་ཆེན་གསུམ་གྱི་འཁྲིད་ཡིག་དམར་བྱང་།
-  volume:
+  author: ''
+  volumes:
     16999e3c691a47298e6cb8c187e1c397:
       image_group_id: I4CZ294545
       title: Volume 1 of klong snying bskyed rdzogs rdzogs chen gsum gyi 'khrid yig
         dmar byang /
       volume_number: 1
       total_pages: 610
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཀློང་སྙིང་བསྐྱེད་རྫོགས་རྫོགས་ཆེན་གསུམ་གྱི་འཁྲིད་ཡིག་དམར་བྱང་།
   author: ''
